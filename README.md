@@ -5,3 +5,5 @@
 ### .bmp - 8-bit depth
 
 ### .bin - scripts and text
+
+### .prk - parks

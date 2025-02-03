@@ -7,3 +7,5 @@
 ### .bin - scripts and text
 
 ### .prk - parks
+
+### .trg - levels

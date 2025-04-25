@@ -6,6 +6,10 @@ DCAE7F07.bin - Credits
 EE59B265.bin - Level Select
 FC01FEC9.bin - Park Editor
 7F228E02.bin - Pre-made Parks Text
+8CB4B956.bin - Level Loading
+5541E9B5.bin - Options
+9EB19417.bin - Goals
+thps4: 9EB19417.bin - Career Goals Text
 
 31A1EA54.psx - Pause Buttons Image
 thps3: 523764BC.psx - Skater Select

@@ -1,0 +1,26 @@
+Address										Hex
+
+768CA - 768D0: Career Mode			02 24 46 18 02 08 xx
+768DE - 768E4: Single Session		
+768EE - 768F4: Free Skate			02 24 E5 1A 02 08 xx
+               Two Player
+               Create Skater		02 24 E5 1A 02 08 xx
+			   Park Editor			03 24 D4 4D 80 AF E5 1A 02 08 xx
+			   Options
+			   
+Values
+
+02: Career Level Select
+03: Decks Career
+04: Edit Skater
+05: Park Editor
+06: ????
+09: Two Player
+0A: Career Mode
+0B: Custom Skater Roster
+0D: Decks Edit Skater
+0E: Save Skater
+0F: Stats Career
+10: Trick Setup
+11: Options
+13: Two Player Handicap

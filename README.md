@@ -1,14 +1,15 @@
 ### PSX: Geometry, Model, and Textures
 Some .bin files has model and texture. https://github.com/rickomax/psxprev
 
-### .vab - music and sfx
+### VAB: PlayStation audio file format
 
-### .bmp - 8-bit depth
+### BMP: Windows Bitmap
+Paint.net support 8-bit, 24-bit, and 32-bit for PlayStation
+https://www.getpaint.net/
 
-### .bin
-Contains scripts, text, image, and textures together in one file.
+### BIN: Scripts, Text, Image, and Textures together in one file.
 
-### .prk - parks
+### PRK: Park
 
 ### TRG: Scripts / Level Meta-Data
 https://github.com/JayFoxRox/thps2-tools

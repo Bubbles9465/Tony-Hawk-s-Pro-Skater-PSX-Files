@@ -1,4 +1,4 @@
-### PSX: Geometry, Model, and Textures
+### PSX: Model, Texture, Aand Animations
 Some .bin files has model and texture. https://github.com/rickomax/psxprev
 
 ### VAB: PlayStation audio file format

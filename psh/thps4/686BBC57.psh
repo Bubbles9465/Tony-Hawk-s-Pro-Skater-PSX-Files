@@ -1,0 +1,60 @@
+#ifndef _CAB_L_PSH
+#define _CAB_L_PSH
+#define CAB_LPART_CAB_PELVIS			0
+//   parent: Scene Root
+
+#define CAB_LPART_CAB_RIGHT_SHOE			1
+//   parent: cab_right_shin
+
+#define CAB_LPART_CAB_RIGHT_SHIN			2
+//   parent: cab_right_thigh
+
+#define CAB_LPART_CAB_RIGHT_THIGH			3
+//   parent: cab_pelvis
+
+#define CAB_LPART_CAB_LEFT_SHOE			4
+//   parent: cab_left_shin
+
+#define CAB_LPART_CAB_LEFT_SHIN			5
+//   parent: cab_left_thigh
+
+#define CAB_LPART_CAB_LEFT_THIGH			6
+//   parent: cab_pelvis
+
+#define CAB_LPART_CAB_STOMACH			7
+//   parent: cab_pelvis
+
+#define CAB_LPART_CAB_CHEST			8
+//   parent: cab_stomach
+
+#define CAB_LPART_CAB_LEFT_HAND			9
+//   parent: cab_left_forearm
+
+#define CAB_LPART_CAB_LEFT_FOREARM			10
+//   parent: cab_left_bicep
+
+#define CAB_LPART_CAB_LEFT_BICEP			11
+//   parent: cab_chest
+
+#define CAB_LPART_CAB_RIGHT_HAND			12
+//   parent: cab_right_forearm
+
+#define CAB_LPART_CAB_RIGHT_FOREARM			13
+//   parent: cab_right_bicep
+
+#define CAB_LPART_CAB_RIGHT_BICEP			14
+//   parent: cab_chest
+
+#define CAB_LPART_CAB_HEAD			15
+//   parent: cab_chest
+
+#define CAB_LPART_CAB_BOARD			16
+//   parent: Scene Root
+
+#define CAB_LPART_CAB_FRONT_WHEEL			17
+//   parent: cab_board
+
+#define CAB_LPART_CAB_BACK_WHEEL			18
+//   parent: cab_board
+
+#endif

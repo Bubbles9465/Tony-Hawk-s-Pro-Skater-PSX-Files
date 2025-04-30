@@ -1,0 +1,60 @@
+#ifndef _BAM_PSH
+#define _BAM_PSH
+#define BAMPART_BAM_PELVIS			0
+//   parent: Scene Root
+
+#define BAMPART_BAM_RIGHT_SHOE			1
+//   parent: bam_right_shin
+
+#define BAMPART_BAM_RIGHT_SHIN			2
+//   parent: bam_right_thigh
+
+#define BAMPART_BAM_RIGHT_THIGH			3
+//   parent: bam_pelvis
+
+#define BAMPART_BAM_LEFT_SHOE			4
+//   parent: bam_left_shin
+
+#define BAMPART_BAM_LEFT_SHIN			5
+//   parent: bam_left_thigh
+
+#define BAMPART_BAM_LEFT_THIGH			6
+//   parent: bam_pelvis
+
+#define BAMPART_BAM_STOMACH			7
+//   parent: bam_pelvis
+
+#define BAMPART_BAM_CHEST			8
+//   parent: bam_stomach
+
+#define BAMPART_BAM_HEAD			9
+//   parent: bam_chest
+
+#define BAMPART_BAM_RIGHT_HAND			10
+//   parent: bam_right_forearm
+
+#define BAMPART_BAM_RIGHT_FOREARM			11
+//   parent: bam_right_bicep
+
+#define BAMPART_BAM_RIGHT_BICEP			12
+//   parent: bam_chest
+
+#define BAMPART_BAM_LEFT_HAND			13
+//   parent: bam_left_forearm
+
+#define BAMPART_BAM_LEFT_FOREARM			14
+//   parent: bam_left_bicep
+
+#define BAMPART_BAM_LEFT_BICEP			15
+//   parent: bam_chest
+
+#define BAMPART_BAM_BOARD			16
+//   parent: Scene Root
+
+#define BAMPART_BAM_FRONT_WHEEL			17
+//   parent: bam_board
+
+#define BAMPART_BAM_BACK_WHEEL			18
+//   parent: bam_board
+
+#endif

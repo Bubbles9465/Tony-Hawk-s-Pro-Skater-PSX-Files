@@ -1,0 +1,60 @@
+#ifndef _MUSKA2_L_PSH
+#define _MUSKA2_L_PSH
+#define MUSKA2_LPART_MUSKA_BOARD			0
+//   parent: Scene Root
+
+#define MUSKA2_LPART_MUSKA_BACK_WHEEL			1
+//   parent: muska_board
+
+#define MUSKA2_LPART_MUSKA_FRONT_WHEEL			2
+//   parent: muska_board
+
+#define MUSKA2_LPART_MUSKA_PELVIS			3
+//   parent: Scene Root
+
+#define MUSKA2_LPART_MUSKA_LEFT_SHOE			4
+//   parent: muska_left_shin
+
+#define MUSKA2_LPART_MUSKA_LEFT_SHIN			5
+//   parent: muska_left_thigh
+
+#define MUSKA2_LPART_MUSKA_RIGHT_SHOE			6
+//   parent: muska_right_shin
+
+#define MUSKA2_LPART_MUSKA_RIGHT_SHIN			7
+//   parent: muska_right_thigh
+
+#define MUSKA2_LPART_MUSKA_RIGHT_THIGH			8
+//   parent: muska_pelvis
+
+#define MUSKA2_LPART_MUSKA_LEFT_THIGH			9
+//   parent: muska_pelvis
+
+#define MUSKA2_LPART_MUSKA_STOMACH			10
+//   parent: muska_pelvis
+
+#define MUSKA2_LPART_MUSKA_CHEST			11
+//   parent: muska_stomach
+
+#define MUSKA2_LPART_MUSKA_HEAD			12
+//   parent: muska_chest
+
+#define MUSKA2_LPART_MUSKA_LEFT_HAND			13
+//   parent: muska_left_forearm
+
+#define MUSKA2_LPART_MUSKA_LEFT_FOREARM			14
+//   parent: muska_left_bicep
+
+#define MUSKA2_LPART_MUSKA_LEFT_BICEP			15
+//   parent: muska_chest
+
+#define MUSKA2_LPART_MUSKA_RIGHT_FOREARM			16
+//   parent: muska_right_bicep
+
+#define MUSKA2_LPART_MUSKA_RIGHT_BICEP			17
+//   parent: muska_chest
+
+#define MUSKA2_LPART_MUSKA_RIGHT_HAND			18
+//   parent: muska_right_forearm
+
+#endif

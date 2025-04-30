@@ -1,0 +1,60 @@
+#ifndef _SECRE2_L_PSH
+#define _SECRE2_L_PSH
+#define SECRE2_LPART_FRYCOOK_PELVIS			0
+//   parent: Scene Root
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_SHOE			1
+//   parent: frycook_right_shin
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_SHIN			2
+//   parent: frycook_right_thigh
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_THIGH			3
+//   parent: frycook_pelvis
+
+#define SECRE2_LPART_FRYCOOK_LEFT_SHOE			4
+//   parent: frycook_left_shin
+
+#define SECRE2_LPART_FRYCOOK_LEFT_SHIN			5
+//   parent: frycook_left_thigh
+
+#define SECRE2_LPART_FRYCOOK_LEFT_THIGH			6
+//   parent: frycook_pelvis
+
+#define SECRE2_LPART_FRYCOOK_STOMACH			7
+//   parent: frycook_pelvis
+
+#define SECRE2_LPART_FRYCOOK_CHEST			8
+//   parent: frycook_stomach
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_FOREARM			9
+//   parent: frycook_right_bicep
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_BICEP			10
+//   parent: frycook_chest
+
+#define SECRE2_LPART_FRYCOOK_RIGHT_HAND			11
+//   parent: frycook_right_forearm
+
+#define SECRE2_LPART_FRYCOOK_LEFT_HAND			12
+//   parent: frycook_left_forearm
+
+#define SECRE2_LPART_FRYCOOK_LEFT_FOREARM			13
+//   parent: frycook_left_bicep
+
+#define SECRE2_LPART_FRYCOOK_LEFT_BICEP			14
+//   parent: frycook_chest
+
+#define SECRE2_LPART_FRYCOOK_HEAD			15
+//   parent: frycook_chest
+
+#define SECRE2_LPART_FRYCOOK_BOARD			16
+//   parent: Scene Root
+
+#define SECRE2_LPART_FRYCOOK_FRONT_WHEEL			17
+//   parent: frycook_board
+
+#define SECRE2_LPART_FRYCOOK_BACK_WHEEL			18
+//   parent: frycook_board
+
+#endif

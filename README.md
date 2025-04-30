@@ -10,8 +10,9 @@ https://www.getpaint.net/
 ### BIN: Scripts, Text, Image, and Textures together in one file.
 
 ### PRK: Park
+https://github.com/JayFoxRox/thps2-tools/blob/master/disassemble-prk.py
 
 ### TRG: Scripts / Level Meta-Data
-https://github.com/JayFoxRox/thps2-tools
+https://github.com/JayFoxRox/thps2-tools/blob/master/disassemble-trg.py
 
 ### PSH: Text Document

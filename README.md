@@ -4,7 +4,7 @@ Some .bin files has model and texture. https://github.com/rickomax/psxprev
 ### VAB: PlayStation audio file format
 
 ### BMP: Windows Bitmap
-Paint.net support 8-bit, 24-bit, and 32-bit for PlayStation
+Paint.net support 4-bit, 8-bit, 24-bit, and 32-bit for PlayStation
 https://www.getpaint.net/
 
 ### BIN: Scripts, Text, Image, and Textures together in one file.

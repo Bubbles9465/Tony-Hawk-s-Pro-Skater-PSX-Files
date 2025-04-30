@@ -1,4 +1,6 @@
-### .psx - geometry and textures
+### .psx
+Level geometry, model, and textures in .psx file. Some .bin files has model and texture
+https://github.com/rickomax/psxprev
 
 ### .vab - music and sfx
 
@@ -8,4 +10,5 @@
 
 ### .prk - parks
 
-### .trg - levels
+### .trg
+Level scripts

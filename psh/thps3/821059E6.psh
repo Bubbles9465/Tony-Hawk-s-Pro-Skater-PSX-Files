@@ -1,0 +1,60 @@
+#ifndef _CAB_PSH
+#define _CAB_PSH
+#define CABPART_CABALLERO_BOARD			0
+//   parent: Scene Root
+
+#define CABPART_CABALLERO_BACK_WHEEL			1
+//   parent: caballero_board
+
+#define CABPART_CABALLERO_FRONT_WHEEL			2
+//   parent: caballero_board
+
+#define CABPART_CABALLERO_PELVIS			3
+//   parent: Scene Root
+
+#define CABPART_CABALLERO_LEFT_SHIN			4
+//   parent: caballero_left_thigh
+
+#define CABPART_CABALLERO_LEFT_SHOE			5
+//   parent: caballero_left_shin
+
+#define CABPART_CABALLEROT_RIGHT_SHIN			6
+//   parent: caballero_right_thigh
+
+#define CABPART_CABALLERO_RIGHT_THIGH			7
+//   parent: caballero_pelvis
+
+#define CABPART_CABALLERO_LEFT_THIGH			8
+//   parent: caballero_pelvis
+
+#define CABPART_CABALLERO_RIGHT_SHOE			9
+//   parent: caballerot_right_shin
+
+#define CABPART_CABALLERO_STOMACH			10
+//   parent: caballero_pelvis
+
+#define CABPART_CABALLERO_CHEST			11
+//   parent: caballero_stomach
+
+#define CABPART_CABALLERO_HEAD			12
+//   parent: caballero_chest
+
+#define CABPART_CABALLERO_RIGHT_HAND			13
+//   parent: caballero_right_forearm
+
+#define CABPART_CABALLERO_RIGHT_FOREARM			14
+//   parent: caballero_right_bicep
+
+#define CABPART_CABALLERO_RIGHT_BICEP			15
+//   parent: caballero_chest
+
+#define CABPART_CABALLERO_LEFT_HAND			16
+//   parent: caballero_left_forearm
+
+#define CABPART_CABALLERO_LEFT_FOREARM			17
+//   parent: caballero_left_bicep
+
+#define CABPART_CABALLERO_LEFT_BICEP			18
+//   parent: caballero_chest
+
+#endif

@@ -1,0 +1,60 @@
+#ifndef _ROWLEY2_PSH
+#define _ROWLEY2_PSH
+#define ROWLEY2PART_ROWLEY_BOARD			0
+//   parent: Scene Root
+
+#define ROWLEY2PART_ROWLEY_FRONT_WHEEL			1
+//   parent: rowley_board
+
+#define ROWLEY2PART_ROWLEY_BACK_WHEEL			2
+//   parent: rowley_board
+
+#define ROWLEY2PART_ROWLEY_PELVIS			3
+//   parent: Scene Root
+
+#define ROWLEY2PART_ROWLEY_RIGHT_SHOE			4
+//   parent: rowley_right_shin
+
+#define ROWLEY2PART_ROWLEY_RIGHT_SHIN			5
+//   parent: rowley_right_thigh
+
+#define ROWLEY2PART_ROWLEY_RIGHT_THIGH			6
+//   parent: rowley_pelvis
+
+#define ROWLEY2PART_ROWLEY_LEFT_SHOE			7
+//   parent: rowley_left_shin
+
+#define ROWLEY2PART_ROWLEY_LEFT_SHIN			8
+//   parent: rowley_left_thigh
+
+#define ROWLEY2PART_ROWLEY_LEFT_THIGH			9
+//   parent: rowley_pelvis
+
+#define ROWLEY2PART_ROWLEY_STOMACH			10
+//   parent: rowley_pelvis
+
+#define ROWLEY2PART_ROWLEY_CHEST			11
+//   parent: rowley_stomach
+
+#define ROWLEY2PART_ROWLEY_LEFT_HAND			12
+//   parent: rowley_left_forearm
+
+#define ROWLEY2PART_ROWLEY_LEFT_FOREARM			13
+//   parent: rowley_left_bicep
+
+#define ROWLEY2PART_ROWLEY_LEFT_BICEP			14
+//   parent: rowley_chest
+
+#define ROWLEY2PART_ROWLEY_RIGHT_HAND			15
+//   parent: rowley_right_forearm
+
+#define ROWLEY2PART_ROWLEY_RIGHT_FOREARM			16
+//   parent: rowley_right_bicep
+
+#define ROWLEY2PART_ROWLEY_RIGHT_BICEP			17
+//   parent: rowley_chest
+
+#define ROWLEY2PART_ROWLEY_HEAD			18
+//   parent: rowley_chest
+
+#endif

@@ -1,0 +1,60 @@
+#ifndef _SECRET2_PSH
+#define _SECRET2_PSH
+#define SECRET2PART_WOLVERINE_PELVIS			0
+//   parent: Scene Root
+
+#define SECRET2PART_WOLVERINE_STOMACH			1
+//   parent: wolverine_pelvis
+
+#define SECRET2PART_WOLVERINE_CHEST			2
+//   parent: wolverine_stomach
+
+#define SECRET2PART_WOLVERINE_LEFT_HAND			3
+//   parent: wolverine_left_forearm
+
+#define SECRET2PART_WOLVERINE_LEFT_FOREARM			4
+//   parent: wolverine_left_bicep
+
+#define SECRET2PART_WOLVERINE_LEFT_BICEP			5
+//   parent: wolverine_chest
+
+#define SECRET2PART_WOLVERINE_RIGHT_HAND			6
+//   parent: wolverine_right_forearm
+
+#define SECRET2PART_WOLVERINE_RIGHT_FOREARM			7
+//   parent: wolverine_right_bicep
+
+#define SECRET2PART_WOLVERINE_RIGHT_BICEP			8
+//   parent: wolverine_chest
+
+#define SECRET2PART_WOLVERINE_HEAD			9
+//   parent: wolverine_chest
+
+#define SECRET2PART_WOLVERINE_LEFT_SHOE			10
+//   parent: wolverine_left_shin
+
+#define SECRET2PART_WOLVERINE_LEFT_SHIN			11
+//   parent: wolverine_left_thigh
+
+#define SECRET2PART_WOLVERINE_RIGHT_SHOE			12
+//   parent: wolverine_right_shin
+
+#define SECRET2PART_WOLVERINE_RIGHT_SHIN			13
+//   parent: wolverine_right_thigh
+
+#define SECRET2PART_WOLVERINE_RIGHT_THIGH			14
+//   parent: wolverine_pelvis
+
+#define SECRET2PART_WOLVERINE_LEFT_THIGH			15
+//   parent: wolverine_pelvis
+
+#define SECRET2PART_WOLVERINE_BOARD			16
+//   parent: Scene Root
+
+#define SECRET2PART_WOLVERINE_BACK_WHEEL			17
+//   parent: wolverine_board
+
+#define SECRET2PART_WOLVERINE_FRONT_WHEEL			18
+//   parent: wolverine_board
+
+#endif

@@ -1,0 +1,60 @@
+#ifndef _RYNLD2BL_PSH
+#define _RYNLD2BL_PSH
+#define RYNLD2BLPART_REYNOLDS_PELVIS			0
+//   parent: Scene Root
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_SHOE			1
+//   parent: reynolds_right_shin
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_SHIN			2
+//   parent: reynolds_right_thigh
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_THIGH			3
+//   parent: reynolds_pelvis
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_SHOE			4
+//   parent: reynolds_left_shin
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_SHIN			5
+//   parent: reynolds_left_thigh
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_THIGH			6
+//   parent: reynolds_pelvis
+
+#define RYNLD2BLPART_REYNOLDS_STOMACH			7
+//   parent: reynolds_pelvis
+
+#define RYNLD2BLPART_REYNOLDS_CHEST			8
+//   parent: reynolds_stomach
+
+#define RYNLD2BLPART_REYNOLDS_HEAD			9
+//   parent: reynolds_chest
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_HAND			10
+//   parent: reynolds_right_forearm
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_FOREARM			11
+//   parent: reynolds_right_bicep
+
+#define RYNLD2BLPART_REYNOLDS_RIGHT_BICEP			12
+//   parent: reynolds_chest
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_HAND			13
+//   parent: reynolds_left_forearm
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_FOREARM			14
+//   parent: reynolds_left_bicep
+
+#define RYNLD2BLPART_REYNOLDS_LEFT_BICEP			15
+//   parent: reynolds_chest
+
+#define RYNLD2BLPART_REYNOLDS_BOARD			16
+//   parent: Scene Root
+
+#define RYNLD2BLPART_REYNOLDS_FRONT_WHEEL			17
+//   parent: reynolds_board
+
+#define RYNLD2BLPART_REYNOLDS_BACK_WHEEL			18
+//   parent: reynolds_board
+
+#endif

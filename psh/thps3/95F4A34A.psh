@@ -1,0 +1,60 @@
+#ifndef _SECRET1B_PSH
+#define _SECRET1B_PSH
+#define SECRET1BPART_DICK_BOARD			0
+//   parent: Scene Root
+
+#define SECRET1BPART_DICK_FRONT_WHEEL			1
+//   parent: dick_board
+
+#define SECRET1BPART_DICK_BACK_WHEEL			2
+//   parent: dick_board
+
+#define SECRET1BPART_DICK_PELVIS			3
+//   parent: Scene Root
+
+#define SECRET1BPART_DICK_RIGHT_SHOE			4
+//   parent: dick_right_shin
+
+#define SECRET1BPART_DICK_RIGHT_SHIN			5
+//   parent: dick_right_thigh
+
+#define SECRET1BPART_DICK_RIGHT_THIGH			6
+//   parent: dick_pelvis
+
+#define SECRET1BPART_DICK_LEFT_SHOE			7
+//   parent: dick_left_shin
+
+#define SECRET1BPART_DICK_LEFT_SHIN			8
+//   parent: dick_left_thigh
+
+#define SECRET1BPART_DICK_LEFT_THIGH			9
+//   parent: dick_pelvis
+
+#define SECRET1BPART_DICK_STOMACH			10
+//   parent: dick_pelvis
+
+#define SECRET1BPART_DICK_CHEST			11
+//   parent: dick_stomach
+
+#define SECRET1BPART_DICK_RIGHT_HAND			12
+//   parent: dick_right_forearm
+
+#define SECRET1BPART_DICK_RIGHT_FOREARM			13
+//   parent: dick_right_bicep
+
+#define SECRET1BPART_DICK_RIGHT_BICEP			14
+//   parent: dick_chest
+
+#define SECRET1BPART_DICK_HEAD			15
+//   parent: dick_chest
+
+#define SECRET1BPART_DICK_LEFT_HAND			16
+//   parent: dick_left_forearm
+
+#define SECRET1BPART_DICK_LEFT_FOREARM			17
+//   parent: dick_left_bicep
+
+#define SECRET1BPART_DICK_LEFT_BICEP			18
+//   parent: dick_chest
+
+#endif

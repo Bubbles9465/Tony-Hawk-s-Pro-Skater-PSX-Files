@@ -1,3 +1,0 @@
-2360 - 3760: Select / Ollie SFX
-3761 - 4640: Back / Alarm SFX
-5731 - 64C0: Level Scroll / Skateboard

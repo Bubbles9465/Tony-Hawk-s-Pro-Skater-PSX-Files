@@ -2,6 +2,7 @@
 Some .bin files has model and texture. https://github.com/rickomax/psxprev
 
 ### VAB: PlayStation audio file format
+Simply drag a vab file to vab2vag to extract all the audio files
 
 ### BMP: Windows Bitmap
 Paint.net support 4-bit, 8-bit, 24-bit, and 32-bit for PlayStation

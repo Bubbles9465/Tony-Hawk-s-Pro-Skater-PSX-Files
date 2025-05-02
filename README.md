@@ -2,10 +2,9 @@
 Some .bin files has model and texture. https://github.com/rickomax/psxprev
 
 ### VAB: PlayStation audio file format
-```
-Tony Hawk's Pro Skater Sample Rate: 12.100 khz
-Tony Hawk's Pro Skater 2, 3, and 4 Sample Rate: 22.100 khz
-```
+- Tony Hawk's Pro Skater Sample Rate: 12.100 khz
+- Tony Hawk's Pro Skater 2, 3, and 4 Sample Rate: 22.100 khz
+
 ### BMP: Windows Bitmap
 ```
 Paint.net support 4-bit, 8-bit, 24-bit, and 32-bit for PlayStation

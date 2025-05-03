@@ -2,6 +2,8 @@
 Some .bin files has model and texture. https://github.com/rickomax/psxprev
 
 ### VAB: PlayStation audio file format compiled with VAG files
+https://archive.org/download/Sony-PSX-tools/VAGEDIT.zip
+https://archive.org/download/Sony-PSX-tools/vabtool.zip
 
 ### BMP: Windows Bitmap
 Paint.net support 4-bit, 8-bit, 24-bit, and 32-bit for PlayStation
